@@ -1,5 +1,10 @@
 # Myr-AI
-Toute la documentation de Myr-AI mon bot LLM pour Discord/Twitch/TikTok etc.
+Documentation complète de mon projet de bot. Fonction LLM avec mémoire. Annonces Discord pour Youtube, Twitch, Tik Tok et d'autres plateformes.
+
+# Projets pour l'avenir :
+Créer une base de donnée de connaissance.
+La connecter à Internet.
+Finir les intégrations aux différentes API.
 
 # Informations complémentaires : 
 
