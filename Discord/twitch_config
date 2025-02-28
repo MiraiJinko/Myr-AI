@@ -1,1 +1,10 @@
+Webhook sur les événements suivants : 
+- Début de stream
+- Fin de stream
 
+#Début de stream :
+Récupère le dernier message du canal « live ».
+Supprimer le dernier message du canal « live ».
+HTTP Request pour avoir le jeu du live.
+Demande au LLM de créer un titre et un petit texteu.
+Publication sur le canal « live » 
