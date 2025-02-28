@@ -3,12 +3,12 @@ Documentation complète de mon projet de bot. Fonction LLM avec mémoire. Annonc
 
 ## Etat du projet : 
 ### Fonctions pour la V0 de Myr-Bot [Discord]
-Chatbox LLM pour Discord : ✅
-Annonces Twitch (Start/Stop) LLM : ✅
-Annonces Youtube Short LLM : ✅
-Annonces Youtube Live : 🛑
-Annonces Tik Tok : ✖️
-Annonces Instagram : ✖️
+Chatbox LLM pour Discord : ✅\n
+Annonces Twitch (Start/Stop) LLM : ✅\n
+Annonces Youtube Short LLM : ✅\n
+Annonces Youtube Live : 🛑\n
+Annonces Tik Tok : ✖️\n
+Annonces Instagram : ✖️\n
 
 ## Projets pour l'avenir :
 Créer une base de donnée de connaissance.
