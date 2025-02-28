@@ -1,2 +1,4 @@
 Modèle : Llama 3.3 - 70b - Versatile 
+Token Max/Réponse : 500.
+Température de prompt : 0.6
 Plateforme : Groq (free)
