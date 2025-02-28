@@ -1,7 +1,7 @@
 # Myr-AI
 Documentation complète de mon projet de bot. Fonction LLM avec mémoire. Annonces Discord pour Youtube, Twitch, Tik Tok et d'autres plateformes.
 
-## Etat du projet : 
+## Etat du projet : V0 en cours.
 ### Fonctions pour la V0 de Myr-Bot [Discord]
 Chatbox LLM pour Discord : ✅<br/>
 Annonces Twitch (Start/Stop) LLM : ✅<br/>
@@ -10,13 +10,13 @@ Annonces Youtube Live : 🛑<br/>
 Annonces Tik Tok : ✖️<br/>
 Annonces Instagram : ✖️<br/>
 
-## Projets pour l'avenir :
-Créer une base de donnée de connaissance.
-La connecter à Internet.
-Finir les intégrations aux différentes API.
-
+### Projets pour l'avenir :
+Créer une base de donnée de connaissance.<br/>
+La connecter à Internet.<br/>
+Finir les intégrations aux différentes API.<br/>
+<hr>
 ##  Informations complémentaires : 
-
+<hr>
 ##  Licence & gestion des données :
 
 Avis sur la Protection des Données Personnelles :
