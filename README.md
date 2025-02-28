@@ -3,7 +3,7 @@ Documentation complète du projet Myr-AI. Chatbot + Adminbot. Fonction LLM avec 
 
 ## Etat du projet : V0 en cours.
 ### Fonctions pour la V0 de Myr-Bot [Discord]
-Chatbox LLM pour Discord : ✅<br/>
+Chatbot LLM pour Discord : ✅<br/>
 Annonces Twitch (Start/Stop) LLM : ✅<br/>
 Annonces Youtube Short LLM : ✅<br/>
 Annonces Youtube Live : 🛑<br/>
