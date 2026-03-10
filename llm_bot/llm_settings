@@ -1,4 +1,4 @@
-Modèle : Llama 3.3 - 70b - Versatile 
+Modèle : meta-llama/llama-4-scout-17b-16e-instruct
 Token Max/Réponse : 500.
 Température de prompt : 0.6
 Plateforme : Groq (free)
